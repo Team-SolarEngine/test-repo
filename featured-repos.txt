@@ -1,1 +1,1 @@
-https://github.com/Team-SolarEngine/test-repo
+Team-SolarEngine/test-repo
