@@ -1,0 +1,12 @@
+{
+  "isOpenSource": "yes",
+  "canMessWithComputer": "no",
+  
+  "title": "Solar Engine (TEST REPO)",
+  "description": "Solar engine test repository. This is only used for testing the fetch in the website. If you with to add this, clone the repo.",
+  "madeBy": "Solar Engine Team",
+  
+  "externalURL": "",
+  "githubURL": "https://github.com/creativity-archived",
+  "madeByURL": "https://codedave.pages.dev/"
+}
