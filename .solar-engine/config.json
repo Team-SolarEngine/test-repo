@@ -3,7 +3,7 @@
   "canMessWithComputer": "no",
   
   "title": "Solar Engine (TEST REPO)",
-  "description": "Solar engine test repository. This is only used for testing the fetch in the website. If you with to add this, clone the repo.",
+  "description": "Solar engine test repository. This is only used for testing the fetch in the website. If you wish to add this, clone the repo.",
   "madeBy": "Solar Engine Team",
   
   "externalURL": "https://solar-engine.netlify.app/",
