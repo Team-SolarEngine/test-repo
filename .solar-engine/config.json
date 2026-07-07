@@ -1,12 +1,13 @@
 {
   "isOpenSource": "yes",
   "canMessWithComputer": "no",
+  "type": "Mod",
   
   "title": "Solar Engine (TEST REPO)",
   "description": "Solar engine test repository. This is only used for testing the fetch in the website. If you wish to add this, clone the repo.",
   "madeBy": "Solar Engine Team",
   
-  "externalURL": "https://solar-engine.netlify.app/",
+  "externalURL": "https://solarengine.net/",
   "githubURL": "https://github.com/Team-SolarEngine",
   "madeByURL": "https://github.com/Team-SolarEngine",
   "downloadURL": "https://github.com/Team-SolarEngine/Solar-Engine-Archive/releases/latest"
