@@ -19,4 +19,6 @@ Literally anything works for markdown.
 
 ---
 
-If you want to submit one, we're working on a submit section! But it'll take long since [Daveberry](https://codedave.pages.dev) (the maintainer) is exhausted. For now, you can share your Mods/Scripts in the [Solar Engine Discord](https://discord.gg/RaHmP5fgyA).
+~~If you want to submit one, we're working on a submit section! But it'll take long since [Daveberry](https://codedave.pages.dev) (the maintainer) is exhausted. For now, you can share your Mods/Scripts in the [Solar Engine Discord](https://discord.gg/RaHmP5fgyA).~~
+
+hehe
