@@ -1,5 +1,4 @@
 Team-SolarEngine/test-repo
 ymrgame2009/Solar-Engine-Scripts
 CharGolden-Games/VSChar-SE-Entry
-
-https://github.com/ymrgame2009/SolarPLUS-Engine
+ymrgame2009/SolarPLUS-Engine
