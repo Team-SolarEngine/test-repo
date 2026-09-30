@@ -2,5 +2,4 @@ Team-SolarEngine/test-repo
 ymrgame2009/Solar-Engine-Scripts
 CharGolden-Games/VSChar-SE-Entry
 ymrgame2009/SolarPLUS-Engine
-
-**[ymrgame2009/Too-Slow-Awe-MIX-FOR-SOLAR-ENGINE-and-UE-0.5.5](ymrgame2009/Too-Slow-Awe-MIX-FOR-SOLAR-ENGINE-and-UE-0.5.5)**
+ymrgame2009/Too-Slow-Awe-MIX-FOR-SOLAR-ENGINE-and-UE-0.5.5
